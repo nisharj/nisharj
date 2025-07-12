@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamednishar J</h1>
 <p align="center">
-  I'm a passionate student developer from Coimbatore, currently pursuing an Integrated MTech in Computer Science and Engineering at Sri Krishna College of Engineering and Technology. I enjoy building intelligent systems, modern web apps, and exploring automation with AI and IoT.
+  I'm a passionate student developer from Kallakurichi, currently pursuing an Integrated MTech in Computer Science and Engineering at Sri Krishna College of Engineering and Technology. I enjoy building intelligent systems, modern web apps, and exploring automation with AI and IoT.
 </p>
 
 ---
