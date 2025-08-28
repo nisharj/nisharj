@@ -22,44 +22,46 @@
 
 ---
 
+
 ### 🧩 Connect with me:
 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohamednishar-j-b9118b274/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Mr_God/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/nisharj" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:mr.mohamed9345@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://nisharj.github.io/Mohamednishar_J/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" height="40"/>
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/mr_mohamed9345" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="40"/>
   </a>
 
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/mrmohamednishar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="40"/>
   </a>
 </p>
+
 
 ---
 
