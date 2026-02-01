@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning **full-stack development** with Flask, React.js, and MongoDB  
 - 🤖 Working on my personal **AI assistant project**  
 - 🌱 Exploring **offline NLP**, system automation, and secure backend APIs  
-- 💼 All my projects: [Portfolio Website](https://nisharj.github.io/Mohamednishar_J/)  
+- 💼 All my projects: [Portfolio Website](https://nisharj.github.io/Personal-Portfolio/)  
 - 📫 Reach me at: **mr.mohamed9345@gmail.com** | **mohamednisharj@gmail.com**  
 
 ---
