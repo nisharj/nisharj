@@ -23,8 +23,7 @@ An aspiring Software Engineer currently pursuing an Integrated M.Tech in Compute
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,python,react,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
 </p>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisharj&theme=tokyonight" />
-
+ 
  ---
 
 <h3>🌐 Connect With Me</h3>
